@@ -15,8 +15,9 @@ public class Shape {
     //Getters and setters
 
     // Draw method
-    public void draw(){}
+    public String draw(){ return "";}
 
     //Area method
+    public double area(){return 0;}
 
 }
