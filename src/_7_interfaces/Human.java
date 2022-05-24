@@ -1,8 +1,8 @@
-package _6_abstract_classes._3interfaces;
+package _7_interfaces;
 
 import java.util.Date;
 
-public class Human implements Moveable{
+public class Human implements Moveable, Growable{
     private String name;
     private Gender gender;
     private Date dateOfBirth;
@@ -45,6 +45,10 @@ public class Human implements Moveable{
 
     @Override
     public void move(){
+
+    }
+
+    public void grow(){
 
     }
 

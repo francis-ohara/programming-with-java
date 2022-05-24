@@ -1,4 +1,4 @@
-package _6_abstract_classes._3interfaces;
+package _7_interfaces;
 
 
 public class Main {

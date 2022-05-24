@@ -35,4 +35,6 @@ public class HourlyEmployee extends Employee{
     public double pay(){
         return this.hourlyRate * this.numberOfHours;
     }
+
+
 }
