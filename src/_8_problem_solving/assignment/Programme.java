@@ -1,0 +1,10 @@
+package _8_problem_solving.assignment;
+
+public enum Programme {
+    IT,
+    COMPUTER_SCIENCE,
+    COMPUTER_ENGINEERING,
+    MECHANICAL_ENGINEERING,
+    ELECTRICAL_AND_ELECTRONICS_ENGINEERING,
+    INDUSTRIAL_ENGINEERING
+}
